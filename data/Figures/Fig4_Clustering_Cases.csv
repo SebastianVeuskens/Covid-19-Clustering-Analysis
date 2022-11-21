@@ -1,0 +1,55 @@
+Figure4;;
+Country;X;Y
+Cluster 1;;
+SanMarino;25;1
+Cluster 2;;
+All other countries ;25;464
+Cluster 2.1;;
+Luxembourg, Iceland, Andorra;10;9
+Cluster 2.2;;
+All other countries ;10;455
+Cluster 2.1.1;;
+Andorra;9;2
+Cluster 2.1.2;;
+Luxembourg, Iceland;9;7
+Cluster 2.1.2.1;;
+Luxembourg;3;3
+Iceland;3;4
+Cluster 2.2.1;;
+Italy, Liechtenstein, Switzerland, Spain;4;26
+Cluster 2.2.2;;
+All other countries ;4;429
+Cluster 2.2.1.1;;
+Italy;2;7
+Liechtenstein;2;8
+Switzerland;2;6
+Spain;2;5
+Cluster 2.2.2.1;;
+Monaco;2;9
+Cluster 2.2.2.2;;
+Belgium, Austria;2;22
+Cluster 2.2.2.3;;
+All other countries ;2;398
+Cluster 2.2.2.2.1;;
+Belgium;1;10
+Austria;1;12
+Cluster 2.2.2.3.1;;
+Malta;1;25
+Slovenia;1;26
+Bahrain;1;29
+Qatar;1;27
+Denmark;1;21
+Iran;1;22
+Estonia;1;20
+Sweden;1;23
+Czechia;1;28
+Panama;1;30
+UnitedKingdom;1;24
+US;1;17
+Israel;1;19
+Portugal;1;14
+Ireland;1;18
+Netherlands;1;16
+France;1;11
+Germany;1;13
+Norway;1;15
