@@ -1,2 +1,1 @@
-# Machine-Learning-GOATs
-i like balls
+# Machine-Learning-GOAT
