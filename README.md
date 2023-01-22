@@ -1,8 +1,26 @@
-# Machine-Learning-GOAT
-## Clustering Analysis of countries using the COVID-19 cases dataset
+# Clustering Analysis of countries using the COVID-19 cases dataset 
+## University-based extended paper reproduction and analysis 
 
+---
 
-### Questions for feedback
- - In 1a dataset, the last columns are unnamed: Shall we leave them or delete them during reading? 
- - Different countries are displayed in the paper and in our project
-    - e.g. Fig. 5, our second highest country is Gibraltar-United Kingdom, which is also consistent with the given dataset, but is not included in the paper figure
+# General information 
+## Authors: 
+- Sebastian Benno Veuskens
+- Alberto Trashaj
+- Manuel Rech
+## Institution:
+   University of Bologna
+
+## Context:
+- University course *Machine Learning Systems for Data Science*
+- December 2022 until January 2023
+- Reproduction of Paper Analysis
+
+---
+
+# Data overview
+- All data are collected in accordance with the paper procedure from the John-Hopkins University website
+- The raw data is available [here](https://www.arcgis.com/apps/opsdashboard/index.
+html#/bda7594740fd40299423467b48e9ecf6) 
+## Datasets:
+- *Coronavirus_Data_Cases_1a. Per day.csv* - Absolute cases 
