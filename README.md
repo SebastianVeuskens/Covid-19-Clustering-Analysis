@@ -4,7 +4,7 @@
 # General information 
 ## Context
 - University course *Machine Learning Systems for Data Science*
-- December 2022 until January 2023
+- Project timeframe from December 2022 until January 2023
 - Reproduction of Paper Analysis
 
 ## Authors
@@ -34,10 +34,10 @@ All data are collected in accordance with the paper procedure from the John-Hopk
 - The countries where cases occured first 
 
 ## Agglomerative Clustering
-Based on these datasets and selected countries, an agglomerative clustering algorithm is applied
+Based on these datasets and selected countries, an agglomerative clustering algorithm is applied.
 
 ## Extension
-Based on the outcome of the clustering algorithm, the countries are embedded into a world map. Their cluster membership is made visually available within the context of all countries 
+Based on the outcome of the clustering algorithm, the countries are embedded into a world map. Their cluster membership is made visually available within the context of all countries. 
 
 # References
 The referenced paper is available [here](https://www.sciencedirect.com/science/article/pii/S2352340920306818?via%3Dihub). The description for the university course in Machine Learning can be found [here](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/444067). 
